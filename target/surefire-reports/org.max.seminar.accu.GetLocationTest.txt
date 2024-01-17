@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.max.seminar.accu.GetLocationTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.262 s - in org.max.seminar.accu.GetLocationTest

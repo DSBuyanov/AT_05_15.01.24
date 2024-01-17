@@ -1,0 +1,16 @@
+org\max\seminar\spoon\IngredientSubstitutesTest.class
+org\max\home\accu\WeatherForecastTest.class
+org\max\home\spoon\ConvertAmountsTest.class
+org\max\seminar\spoon\ClassifyCuisineTest.class
+org\max\seminar\accu\GetLocationTest.class
+org\max\demo\WireMockTest.class
+org\max\seminar\accu\AbstractTest.class
+org\max\home\spoon\SimilarRecipesTest.class
+org\max\demo\LogbackExampleTest.class
+org\max\home\accu\GetWeatherFiveDayTest.class
+org\max\home\accu\AbstractTest.class
+org\max\home\spoon\AbstractTest.class
+org\max\demo\MockitoExampleTest.class
+org\max\home\accu\GetWeatherOneDayTest.class
+org\max\seminar\spoon\AbstractTest.class
+org\max\demo\TriangleTest.class

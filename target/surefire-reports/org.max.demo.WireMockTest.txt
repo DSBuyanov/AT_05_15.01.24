@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.max.demo.WireMockTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.172 s - in org.max.demo.WireMockTest
